@@ -42,4 +42,5 @@ Find and recommend items that a user is most likely to be interested in.
 
 # Used Technologies
 Python
+
 Jupyter Notebook
