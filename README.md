@@ -39,3 +39,7 @@ Find and recommend items that a user is most likely to be interested in.
   <font size="5" color="blue"><Strong>Model-based Collaborative Filtering: </Strong></font>Recommend items based on user behavior(ratings/reviews). by factoring out the latent vectors (user attribute) matrix and (item attribute) matrix from the known (ratings/reviews). so make recommendations without back to the complete dataset.
 </li>
 </ol>
+
+# Used Technologies
+Python
+Jupyter Notebook
