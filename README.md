@@ -41,6 +41,7 @@ Find and recommend items that a user is most likely to be interested in.
 </ol>
 
 # Used Technologies
-Python
+<ul><li>Python</li></ul>
 
-Jupyter Notebook
+# Used Tools
+<ul><li>Jupyter Notebook</li></ul>
